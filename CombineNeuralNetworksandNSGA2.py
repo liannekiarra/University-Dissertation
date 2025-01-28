@@ -1,4 +1,4 @@
-#this code works and it succesfully combines hte neural networks and the optimisation algorithm.
+#this code works and it succesfully combines the neural networks and the optimisation algorithm.
 
 import numpy as np
 from pymoo.core.problem import ElementwiseProblem
